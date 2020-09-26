@@ -12,3 +12,4 @@
 - 💬 Ask me about **Digital Twins**, **GIS**, **3D Mapping**, **SaaS**, **Scaleable Cloud Services**
 - 📫 How to reach me: [twitter.com/jamesmfee](https://www.twitter.com/jamesmfee)
 - ⚡️ Fun fact: I've been to all 50 states of the USA
+- ⚾ Go [Giants](http://sfgiants.com)!
