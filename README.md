@@ -2,7 +2,7 @@
 
 #### Digital Twins, Geospatial Services, BIM, CAD, Spatial IT
 
-- 🏢 I'm currently working at **Spatially Adjusted**
+- 🏢 I'm currently working at **@HERE**
 - ⚙️ I use daily: `.py`, `.geojson`, `.glTF`
 - 🌍 I'm mapping every baseball ballpark [in GeoJSON](https://github.com/cageyjames/GeoJSON-Ballparks)
 - 🌱 Learning all about creating digital twins with satellite imagery and machine learning
