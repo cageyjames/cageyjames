@@ -17,7 +17,7 @@ With a strong business acumen and exceptional communication skills, I am committ
 
 I am passionate about aligning technology strategies with organizational goals, driving innovation, and leading teams toward achieving excellence in the ever-evolving digital landscape. Let's connect and explore how we can collaborate to harness the power of technology and drive success in your organization.
 
-- 🏢 I'm currently working at **CRS Temporary Housing**
+- 🏢 I'm currently working on **Geospatial AI project**
 - 🌍 I'm mapping every baseball ballpark [in GeoJSON](https://github.com/cageyjames/GeoJSON-Ballparks)
 - 💬 Ask me about **IoT**, **SaaS**, **Scaleable Cloud Services**
 - ⚾ Go [Giants](http://sfgiants.com)!
